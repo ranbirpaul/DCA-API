@@ -1,0 +1,1 @@
+[{"DCAType":"Rack","AbilityModel":"abb.ability.device","AbilityType":"abb.ability.device.rack@1"},{"DCAType":"RackLoc","AbilityModel":"abb.dcatest.locationmodel","AbilityType":"abb.dcatest.location@1"},{"DCAType":"sample","AbilityModel":"abb.ability.device","AbilityType":"abb.ability.device.edge.sample@2"}]

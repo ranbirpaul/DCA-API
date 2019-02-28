@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DCAAPISample", "DCAAPISample\DCAAPISample.csproj", "{8B84F0C0-96CA-49A7-A346-6541F2CDF29C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business Model", "Business Model\Business Model.csproj", "{AE5B2181-27D6-4C34-AC6A-1D6E92934ED3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{A248C068-60EC-486A-AA46-4513779799D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "DCAService\Service.csproj", "{06C6ABB6-C686-4625-A9E9-5AD34DBC3950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B84F0C0-96CA-49A7-A346-6541F2CDF29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B84F0C0-96CA-49A7-A346-6541F2CDF29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B84F0C0-96CA-49A7-A346-6541F2CDF29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B84F0C0-96CA-49A7-A346-6541F2CDF29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5B2181-27D6-4C34-AC6A-1D6E92934ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5B2181-27D6-4C34-AC6A-1D6E92934ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5B2181-27D6-4C34-AC6A-1D6E92934ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5B2181-27D6-4C34-AC6A-1D6E92934ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A248C068-60EC-486A-AA46-4513779799D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A248C068-60EC-486A-AA46-4513779799D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A248C068-60EC-486A-AA46-4513779799D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A248C068-60EC-486A-AA46-4513779799D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C6ABB6-C686-4625-A9E9-5AD34DBC3950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C6ABB6-C686-4625-A9E9-5AD34DBC3950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C6ABB6-C686-4625-A9E9-5AD34DBC3950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C6ABB6-C686-4625-A9E9-5AD34DBC3950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32B3D969-2881-4175-8DF5-25D03D8A1CA5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfsa.abb.com/tfs/ocs
+		SccProjectUniqueName0 = DCAAPISample\\DCAAPISample.csproj
+		SccProjectName0 = DCAAPISample
+		SccLocalPath0 = DCAAPISample
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = Business\u0020Model\\Business\u0020Model.csproj
+		SccProjectName2 = Business\u0020Model
+		SccLocalPath2 = Business\u0020Model
+		SccProjectUniqueName3 = Repository\\Repository.csproj
+		SccProjectName3 = Repository
+		SccLocalPath3 = Repository
+		SccProjectUniqueName4 = DCAService\\Service.csproj
+		SccProjectName4 = DCAService
+		SccLocalPath4 = DCAService
+	EndGlobalSection
+EndGlobal
